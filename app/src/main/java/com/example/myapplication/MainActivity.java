@@ -11,6 +11,8 @@ public class MainActivity extends AppCompatActivity {
 
     private ImageButton imageButton;
 
+    String test = "test_app";
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
