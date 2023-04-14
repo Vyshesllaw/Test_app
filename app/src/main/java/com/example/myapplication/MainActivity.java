@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
     private ImageButton imageButton;
 
     String test = "test_app";
+    String test22 = "test_app22";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
